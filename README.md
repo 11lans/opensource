@@ -8,7 +8,7 @@
 
 | 项目 | 说明 | 状态 |
 |---|---|---|
-| _（还没有项目，添加后在此登记）_ | | |
+| [deepseek-pet](./deepseek-pet/) | DeepSeek Harness 网页里的交互式桌宠插件（第三方项目副本，MIT，上游 [keleus/deepseek-pet](https://github.com/keleus/deepseek-pet)） | 已收录 |
 
 ## 怎么添加一个新项目
 
